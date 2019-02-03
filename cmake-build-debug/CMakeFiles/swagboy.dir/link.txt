@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/swagboy.dir/src/main.c.o CMakeFiles/swagboy.dir/src/wheels.c.o CMakeFiles/swagboy.dir/src/claw.c.o CMakeFiles/swagboy.dir/src/sensors.c.o CMakeFiles/swagboy.dir/src/controller.c.o CMakeFiles/swagboy.dir/src/pathfinding.c.o  -o swagboy 

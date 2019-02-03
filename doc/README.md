@@ -1,6 +1,6 @@
 # An EV3 Mindstorms puck grabber
 
-![](swagboy.png)
+![](html/swagboy.png)
 
 
 

@@ -4,7 +4,7 @@
 
 
 
-Swagboy is a puck grabber robot. Equipped with 2 wheels, powered by 2 EV3 large motors, 1 claw, powered by 1 EV3 medium motor, 1 ultrasonic sensor, 1 touch sensor and 1 color sensor.
+Swagboy-C is a puck grabber robot. Equipped with 2 wheels, powered by 2 EV3 large motors, 1 claw, powered by 1 EV3 medium motor, 1 ultrasonic sensor, 1 touch sensor and 1 color sensor.
 
 
 
